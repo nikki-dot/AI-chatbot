@@ -1,0 +1,13 @@
+langchain
+langchain-groq
+langchain-openai
+langchain-ollama
+langchain-google-genai
+langchain-huggingface
+langchain-community
+langchain-tavily
+dotenv
+streamlit
+fastapi
+torch
+tensorflow
